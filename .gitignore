@@ -1,0 +1,10 @@
+# Plugins installed manually
+pack/github/start/copilot.vim/
+
+# macOS
+.DS_Store
+
+# Temporary / swap files
+*.swp
+*.swo
+*~
